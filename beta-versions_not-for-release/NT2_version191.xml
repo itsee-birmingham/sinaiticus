@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- xmlns="http://www.tei-c.org/ns/1.0" -->
-<TEI xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 tei_all.xsd ">
+<TEI xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0/tei_all.xsd">
 <teiHeader>
 <fileDesc>
 
@@ -8491,7 +8491,7 @@
 <lb id="S-84-6r-2-18" corres="E-84-6r-2-18" n="18"  break="no"/>ϲατε</w> <w n="5">και</w> <w n="6">εν</w> <w n="7">αυτω</w> <lb id="E-84-6r-2-18" corres="S-84-6r-2-18"/>
 <lb id="S-84-6r-2-19" corres="E-84-6r-2-19" n="19"/><w n="8">εδιδαχθητε</w> <w n="9">καθωϲ</w> <lb id="E-84-6r-2-19" corres="S-84-6r-2-19"/>
 <lb id="S-84-6r-2-20" corres="E-84-6r-2-20" n="20"/><w n="10">εϲτιν</w> <w n="11">αληθεια</w> <w n="12">εν</w> <lb id="E-84-6r-2-20" corres="S-84-6r-2-20"/>
-<lb id="S-84-6r-2-21" corres="E-84-6r-2-21" n="21" vnumber="22"/><w n="13">τω</w> <app><rdg type="corr" hand="S1"><w n="14"><abbr type="nomSac"><hi rend="overline">ιυ</hi></abbr></w></rdg><rdg type="orig" hand="firsthand"><w n="14"><abbr type="nomSac"><hi rend="overline"><unclear>χυ</hi></unclear></abbr></w></rdg></app> </ab><ab id="V-B41K4V22-41-EPH" n="22"><app><rdg type="corr" hand="S1"><w n="1">αποθεϲθαι</w></rdg><rdg type="orig" hand="firsthand"><w n="1"><hi rend="overline"><unclear>ιυ</unclear></hi></w> <w n="2">οθεϲθαι</w></rdg></app> <lb id="E-84-6r-2-21" corres="S-84-6r-2-21"/>
+ <lb id="S-84-6r-2-21" corres="E-84-6r-2-21" n="21" vnumber="22"/><w n="13">τω</w> <app><rdg type="corr" hand="S1"><w n="14"><abbr type="nomSac"><hi rend="overline">ιυ</hi></abbr></w></rdg><rdg type="orig" hand="firsthand"><w n="14"><abbr type="nomSac"><hi rend="overline"><unclear>χυ</unclear></hi></abbr></w></rdg></app> </ab><ab id="V-B41K4V22-41-EPH" n="22"><app><rdg type="corr" hand="S1"><w n="1">αποθεϲθαι</w></rdg><rdg type="orig" hand="firsthand"><w n="1"><hi rend="overline"><unclear>ιυ</unclear></hi></w> <w n="2">οθεϲθαι</w></rdg></app> <lb id="E-84-6r-2-21" corres="S-84-6r-2-21"/>
 <lb id="S-84-6r-2-22" corres="E-84-6r-2-22" n="22"/><w n="3"><hi rend="joined-diaeresis">υ</hi>μαϲ</w> <w n="4">κατα</w> <w n="5">την</w> <w n="6">προ<note type="hyphen"/><lb id="E-84-6r-2-22" corres="S-84-6r-2-22"/>
 <lb id="S-84-6r-2-23" corres="E-84-6r-2-23" n="23"  break="no"/>τεραν</w> <w n="7">αναϲτροφη<ex rend="¯">ν</ex></w> <lb id="E-84-6r-2-23" corres="S-84-6r-2-23"/>
 <lb id="S-84-6r-2-24" corres="E-84-6r-2-24" n="24"/><w n="8">τον</w> <w n="9">παλαιον</w> <w n="10">αν<note type="hyphen"/><lb id="E-84-6r-2-24" corres="S-84-6r-2-24"/>
