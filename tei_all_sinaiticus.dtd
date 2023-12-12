@@ -5848,6 +5848,9 @@ iterated %teidata.xTruthValue;  "false"  >
  %tei_att.typed.attributes;
  %tei_att.linguistic.attributes;
  %tei_att.notated.attributes; >
+ <!ATTLIST w morph CDATA #IMPLIED>
+ <!ATTLIST w lemma CDATA #IMPLIED>
+ <!ATTLIST w norm CDATA #IMPLIED>
 <!--doc:(watermark) contains a word or phrase describing a watermark or similar device. [10.3.3. Watermarks and Stamps] -->
 <!ELEMENT watermark %macro.phraseSeq;>
 <!ATTLIST watermark xmlns CDATA "http://www.tei-c.org/ns/1.0">
