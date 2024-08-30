@@ -4434,7 +4434,7 @@ Elements] -->
  %tei_att.edition.attributes;
  %tei_att.spanning.attributes;
  %tei_att.breaking.attributes; >
-<!ATTLIST pb hand CDATA #IMPLIED>
+<!ATTLIST pb copyist CDATA #IMPLIED>
 <!ATTLIST pb folionum CDATA #IMPLIED>
 <!--doc:(punctuation character) contains a character or string of characters regarded as constituting a single punctuation mark. [17.1.2. Below the Word Level 17.4.2. Lightweight Linguistic Annotation] -->
 <!ELEMENT pc (#PCDATA|%model.gLike;|c|%model.pPart.edit;)*>
